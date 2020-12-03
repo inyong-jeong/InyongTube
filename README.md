@@ -2,6 +2,8 @@
 
 text editor: visual studio Code
 
+운영체제: Windows
+
 기술 스택: react, redux, node.js, mongo DB
 
           * React-create-app 사용
