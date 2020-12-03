@@ -12,7 +12,7 @@ text editor: visual studio Code
           *비디오 저장:(Multer 로 노드 서버에 저장)
           *비디오 썸네일 생성:(ffmpeg)로 썸네일 생성
           *CORS Policy solution 으로 proxy 서버 활용
-          *antd 으로 CSS 프레임워크 사용
+          *ant design 으로 CSS 프레임워크 사용
           
           
 
