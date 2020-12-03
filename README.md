@@ -14,6 +14,9 @@ text editor: visual studio Code
           *CORS Policy solution 으로 proxy 서버 활용
           *ant design 으로 CSS 프레임워크 사용
           
-          
+배포: heroku 사용 
+https://inyongtube.herokuapp.com/   
+
+로컬서버에서는 문제없지만, 해로크 사용해 배포한 후 페이지 라우팅을하면 server 오류가나지만 해결하도록 노력하고있습니다......
 
 외부 API : The Movie DB
