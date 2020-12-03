@@ -20,4 +20,6 @@ text editor: visual studio Code
 외부 API : The Movie DB
 
 참조한 자료 출처: react 공식 documentation, MDN, 유튜브, 구글링, 인터넷 강의, stackoverflow 등등
-*client -> src -> components -> view 폴더에 componets들의 소스코드가 있습니다.
+
+
+(feat.)client -> src -> components -> view 폴더에 componets들의 소스코드가 있습니다.
