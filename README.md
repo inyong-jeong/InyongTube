@@ -1,4 +1,4 @@
-소개 : 게시물의 좋아요, 댓글기능, 동영상 업로드, 구독하기 등 기존에 존재하는 SNS 사이트의 기능들을 구현하였습니다.
+소개 : 게시물의 좋아요, 댓글기능, 동영상 업로드, 구독하기, 로그인 회원가입 등 상용화되있는 기능들을 공부하고 구현한 프로젝트입니다.
 
 text editor: visual studio Code
 
@@ -18,3 +18,5 @@ text editor: visual studio Code
           
 
 외부 API : The Movie DB
+
+참조한 자료 출처: react 공식 documentation, MDN, 유튜브, 구글링, 인터넷 강의, stackoverflow 등등
